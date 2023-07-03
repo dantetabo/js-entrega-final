@@ -1,0 +1,11 @@
+$colores: (
+    1:#bd3639,
+    2:#892729, 
+    3: white,
+    4: black
+);
+
+@mixin tamañofoto {
+    width: 80%;
+    height: auto;
+}
